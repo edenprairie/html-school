@@ -9,7 +9,7 @@ https://github.com/cmderdev/cmder/releases/download/v1.3.11/cmder.zip
 After downloaded the zip file, unzip it and recommend put it under `C:\Applications` folder. Make sure you have file named: `C:\Applications\cmder\Cmder.exe`
 
 Rum the Cmder.exe and pin it on task bar:
-<pic>
+![pin cmder](https://github.com/jenac/html-school/raw/master/pics/cmder-pin.png)
 
 ## Sign up Github
 * If you already have a github account send it to lihe.chen@gmail.com
@@ -26,7 +26,8 @@ Rum the Cmder.exe and pin it on task bar:
 nvm list available
 ```
 The following should show:
-<pic nvmlist>
+
+![nvm list](https://github.com/jenac/html-school/raw/master/pics/nvmlist.png)
 
 
 ## Install nodejs
@@ -48,7 +49,7 @@ node -v
 ```
 npm i -g http-server
 ```
-<pic install http-server>
+![install http-server](https://github.com/jenac/html-school/raw/master/pics/installhttpserver.png)
 
 
 ## Install vscode: **recommended** most popular code editor
@@ -67,8 +68,9 @@ mkdir C:\projects
 cd C:\projects
 http-server
 ```
-<pic http server>
-Open chrome and browse to the url showed in red circle
+![run http server](https://github.com/jenac/html-school/raw/master/pics/http-server-run.png)
 
+Open chrome and browse to the url showed in red circle
+![browse](https://github.com/jenac/html-school/raw/master/pics/browse.png)
 
 
