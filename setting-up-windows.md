@@ -71,6 +71,7 @@ http-server
 ![run http server](https://github.com/jenac/html-school/raw/master/pics/http-server-run.png)
 
 Open chrome and browse to the url showed in red circle
+
 ![browse](https://github.com/jenac/html-school/raw/master/pics/browse.png)
 
 
