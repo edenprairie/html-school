@@ -7,7 +7,7 @@
 https://www.google.com/chrome/
 
 ## Recommended: install oh-my-zsh:
-https://github.com/robbyrussell/oh-my-zsh
+Document: https://github.com/robbyrussell/oh-my-zsh
 
 ## Most MacOs have nodejs installed. If you already have nodejs installed, directly go to Install http-server
 To verify nodejs installation:
