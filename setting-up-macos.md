@@ -30,7 +30,7 @@ wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | 
 ```
 
 ### Test nvm works:
-* Open Cmder, run command:
+* Open shell, run command:
 ```
 nvm list-remote
 ```
@@ -40,7 +40,7 @@ The following should show (a little bit difference):
 
 
 ## Install nodejs
-* In cmder:
+* In shell:
 ```
 nvm install v10.15.3
 ```
