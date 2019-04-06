@@ -1,5 +1,9 @@
 # Setting up your windows
 
+## Sign up Github
+* If you already have a github account send it to lihe.chen@gmail.com
+* Otherwise Go to https://github.com/ , sign up a account with your email address, send the username to lihe.chen@gmail.com
+
 ## If you do not have Chrome, download and install it:
 https://www.google.com/chrome/
 
@@ -10,10 +14,6 @@ After downloaded the zip file, unzip it and recommend put it under `C:\Applicati
 
 Rum the Cmder.exe and pin it on task bar:
 ![pin cmder](https://github.com/jenac/html-school/raw/master/pics/cmder-pin.png)
-
-## Sign up Github
-* If you already have a github account send it to lihe.chen@gmail.com
-* Otherwise Go to https://github.com/ , sign up a account with your email address, send the username to lihe.chen@gmail.com
 
 ## If you already have nodejs installed, directly go to Install http-server
 To verify nodejs installation:
