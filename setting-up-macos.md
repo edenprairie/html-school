@@ -15,16 +15,7 @@ Rum the Cmder.exe and pin it on task bar:
 * If you already have a github account send it to lihe.chen@gmail.com
 * Otherwise Go to https://github.com/ , sign up a account with your email address, send the username to lihe.chen@gmail.com
 
-## If you already have nodejs installed, directly go to Install http-server
-To verify nodejs installation:
-```
-node -v
-```
-If you see a version, means installed.
-
-![node -v](https://github.com/jenac/html-school/raw/master/pics/node-v.png)
-
-## Install nvm 
+## Install nvm (**If you already have nodejs installed, directly go to Install http-server**)
 * Document here: https://github.com/coreybutler/nvm-windows
 * Or click this link to download: https://github.com/coreybutler/nvm-windows/releases/download/1.1.7/nvm-setup.zip
 * Unzip and Install
